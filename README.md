@@ -8,7 +8,7 @@
 
 <p>
 <a align= "center" href="https://github.com/adssidhu86">
-  <img alt= "stats card" height="200px" width="400" src="https://github-readme-stats.vercel.app/api?username=ishikkkkaaaa&theme=cobalt&show_icons=true&count_private=true" />
+  <img alt= "stats card" height="200px" width="400" src="https://github-readme-stats.vercel.app/api?username=adssidhu86&theme=cobalt&show_icons=true&count_private=true" />
   <img align="right" height="270px" width="350" src="https://cdn.dribbble.com/users/2238041/screenshots/4763918/working.gif" /> </a>
 
 </p>

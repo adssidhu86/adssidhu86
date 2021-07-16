@@ -4,7 +4,7 @@
          width="45" />, Hey I am Amardeep Singh Sidhu</h1>
 <h3 align="center">  🖖 Live Long and Prosper 🖖</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=ishikkkkaaaa&label=Profile%20views&color=0e75b6&style=flat" alt="Amardeep" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=adssidhu86&label=Profile%20views&color=0e75b6&style=flat" alt="Amardeep" /> </p>
 
 <p>
 <a align= "center" href="https://github.com/adssidhu86">

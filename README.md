@@ -23,7 +23,7 @@
 <p align="center">
 <a href="https://twitter.com/adssidhu86" target="blank"><img align="center" src="https://img.icons8.com/cute-clipart/64/000000/twitter.png" alt="adssidhu86" height="50" width="50" /></a> &nbsp;&nbsp;&nbsp;
 <a href="https://linkedin.com/in/adssidhu86" target="blank"><img align="center" src="https://img.icons8.com/cute-clipart/64/000000/linkedin.png" alt="AmarSidhu" height="50" width="50" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
-<a href="https://instagram.com/adssidhu86" target="blank"><img align="center" src="https://img.icons8.com/cute-clipart/64/000000/instagram-new.png" alt="wth_ishiii" height="50" width="50" /></a>
+<a href="https://instagram.com/aiedxlearn" target="blank"><img align="center" src="https://img.icons8.com/cute-clipart/64/000000/instagram-new.png" alt="wth_ishiii" height="50" width="50" /></a>
 </p>
 
 <hr>

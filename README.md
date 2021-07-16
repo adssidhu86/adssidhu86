@@ -13,7 +13,7 @@
 
 </p>
 
-<p align="left"> <a href="https://twitter.com/adssidhu86" target="blank"><img src="https://img.shields.io/twitter/follow/ishikakesarwan4?logo=twitter&style=for-the-badge" alt="adssidhu86" /></a> </p>
+<p align="left"> <a href="https://twitter.com/adssidhu86" target="blank"><img src="https://img.shields.io/twitter/follow/adssidhu86" alt="adssidhu86" /></a> </p>
 
 - 📫 How to reach me **contact@aiedx.com**
 <br><br>

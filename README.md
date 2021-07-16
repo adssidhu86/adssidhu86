@@ -4,7 +4,7 @@
          width="45" />, Hey I am Amardeep Singh Sidhu</h1>
 <h3 align="center">  🖖 Live Long and Prosper 🖖</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=ishikkkkaaaa&label=Profile%20views&color=0e75b6&style=flat" alt="ishikkkkaaaa" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=ishikkkkaaaa&label=Profile%20views&color=0e75b6&style=flat" alt="Amardeep" /> </p>
 
 <p>
 <a align= "center" href="https://github.com/adssidhu86">
@@ -13,9 +13,9 @@
 
 </p>
 
-<p align="left"> <a href="https://twitter.com/ishikakesarwan4" target="blank"><img src="https://img.shields.io/twitter/follow/ishikakesarwan4?logo=twitter&style=for-the-badge" alt="adssidhu86" /></a> </p>
+<p align="left"> <a href="https://twitter.com/adssidhu86" target="blank"><img src="https://img.shields.io/twitter/follow/ishikakesarwan4?logo=twitter&style=for-the-badge" alt="adssidhu86" /></a> </p>
 
-- 📫 How to reach me **ishikakesarwani2000@gmail.com**
+- 📫 How to reach me **contact@aiedx.com**
 <br><br>
 <hr>
 

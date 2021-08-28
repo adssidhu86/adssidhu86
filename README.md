@@ -9,7 +9,7 @@
 <p>
 <a align= "center" href="https://github.com/adssidhu86">
   <img alt= "stats card" height="200px" width="400" src="https://github-readme-stats.vercel.app/api?username=adssidhu86&theme=cobalt&show_icons=true&count_private=true" />
-  <img align="right" height="350px" width="350px" src="https://storage.googleapis.com/aiedx-public/AIEDX_NLP.jpg" /> </a>
+  <img align="right" height="250px" width="400px" src="https://storage.googleapis.com/aiedx-public/AIEDX_NLP.jpg" /> </a>
 
 </p>
 

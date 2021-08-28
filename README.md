@@ -9,7 +9,7 @@
 <p>
 <a align= "center" href="https://github.com/adssidhu86">
   <img alt= "stats card" height="200px" width="400" src="https://github-readme-stats.vercel.app/api?username=adssidhu86&theme=cobalt&show_icons=true&count_private=true" />
-  <img align="top-right" height="250px" width="400px" src="https://storage.googleapis.com/aiedx-public/AIEDX_NLP.jpg" /> </a>
+  <img align="top" height="250px" width="400px" src="https://storage.googleapis.com/aiedx-public/AIEDX_NLP.jpg" /> </a>
 
 </p>
 
@@ -21,9 +21,9 @@
 
 <h3 align="center">Connect with me:</h3>
 <p align="center">
-<a href="https://twitter.com/adssidhu86" target="blank"><img align="center" src="https://img.icons8.com/cute-clipart/64/000000/twitter.png" alt="adssidhu86" height="50" width="50" /></a> &nbsp;&nbsp;&nbsp;
-<a href="https://linkedin.com/in/adssidhu86" target="blank"><img align="center" src="https://img.icons8.com/cute-clipart/64/000000/linkedin.png" alt="AmarSidhu" height="50" width="50" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
-<a href="https://instagram.com/aiedxlearn" target="blank"><img align="center" src="https://img.icons8.com/cute-clipart/64/000000/instagram-new.png" alt="wth_ishiii" height="50" width="50" /></a>
+<a href="https://twitter.com/adssidhu86" target="blank"><img align="center" src="https://img.icons8.com/cute-clipart/64/000000/twitter.png" alt="adssidhu86" height="30" width="30" /></a> &nbsp;&nbsp;&nbsp;
+<a href="https://linkedin.com/in/adssidhu86" target="blank"><img align="center" src="https://img.icons8.com/cute-clipart/64/000000/linkedin.png" alt="AmarSidhu" height="30" width="30" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
+<a href="https://instagram.com/aiedxlearn" target="blank"><img align="center" src="https://img.icons8.com/cute-clipart/64/000000/instagram-new.png" alt="wth_ishiii" height="30" width="30" /></a>
 </p>
 
 <hr>

@@ -25,7 +25,7 @@
 <a href="https://linkedin.com/in/adssidhu86" target="blank"><img align="center" src="https://img.icons8.com/cute-clipart/64/000000/linkedin.png" alt="AmarSidhu" height="30" width="30" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
 <a href="https://instagram.com/aiedxlearn" target="blank"><img align="center" src="https://img.icons8.com/cute-clipart/64/000000/instagram-new.png" alt="wth_ishiii" height="30" width="30" /></a>
 </p>
-
+## 🔧 Technologies & Tools
 <hr>
 
 <p align="center">

@@ -17,7 +17,7 @@
 
 - 📫 How to reach me **contact@aiedx.com**
 <br><br>
-<p align="left"> <a href="https://www.aiedx.com" target="blank"><img src="https://img.shields.io/website-up-down-green-red/https/perso.crans.org.svg" alt="AIEDX" /></a> </p>
+<p align="left"> <a href="https://www.aiedx.com" target="blank"><img src="https://img.shields.io/badge/AIEDX-AI%20enabled%20Education%20&%20eXperience-informational?style=flat&logo=data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAMAAAAoLQ9TAAABoVBMVEUCAQADAQAHAwAIAwAJAwAKAwALAwAMAwAPBAAWBgAYCAAZBwAZCAAaCAAbCAAdCQAfCwAjDAAlDgAmDgAxFAEzFQE0FQE3FgE8GQFBHAFCHAFCHQFFHgFLIQFNIgFTJQJXJwJZKAJhLAJjLgNlLgNnMANtMgNtMwN1NwR3OAR5OAN5OQR6OgR7OQR7OgR8OgR8OwR9OwSAPASFPwWJQQWKQQWKQgaLQwaORQaPRQaQRQaSRgaSRgeXSAaaSgecSwidTAieTAeeTAigTgihTgejTwikUAimUAimUQmoUgqpUQirUwmtVAmvVQqwVQqyVwuzVwuzWAu0WAu1WAu1WQu2WAq2WQq2WQu3WQu3Wgu5Wwu5Wwy6Wwy6XAy8XAu9XQzBXgvBXwzDXwvDXwzDYA3EYA3EYQ3FYQ3FYg/GYQ3IYw3JYw3JYw7NZQ3PZg7QZg7QZw/RZw7RZw/TaRDVaRDWahDZbBDabBDbbRHcbRHcbhHdbhDdbhHebhHebxHgbxHgcBLhcBLicBLjcRHjcRLkchLmcxLqdRPweBPweBT///9zyHAPAAAA40lEQVR42mPgMA4IDw83ZWJgsQoPD3aSYFBpik/My3dkZWB3z8+OrHVm0K+UK2io8eIS4AypadEIjGIwrFCs1ZMUcciQFpUttfCPAQuoMUjVdpgxChZbAgUMgALqDCbVSTkCQAGYCt6sCN1WZSQBpWYd8TIPIbiAultnbEhllQxcQKs8Nyw0rt0YKBANNtSlTZWFRTA3pQSmIiFZmIGB0aSwEiKgUOdrp8nGwKbnUm8OFNCvlHQtKPLhYeD2K0qRD4piUKrPScvMtGVh4PfOTE9ttGdg1/bw9PQ0YmbgswbSNmIAPuxFpLfzeBkAAAAASUVORK5CYII=" alt="AIEDX" /></a> </p>
 <hr>
 
 

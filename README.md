@@ -31,7 +31,7 @@
 <hr>
 
 <p align="center">
-  <img src="https://github.com/adssidhu86/adssidhu86/raw/output/github-contribution-grid-snake.svg" alt="snake"></center>
+ 
 </p>
 
 ## 🔧 Technologies & Tools

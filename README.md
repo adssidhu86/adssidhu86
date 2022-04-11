@@ -22,7 +22,8 @@
 </p>
 
 
-<p>We are an experience Tech company. Our mission is to bring hyper world experiences to your digital universe. </p>
+<p style="font-family: Arial">We are an innovative eXperience Tech Company. Our mission is to bring hyper world experiences to your digital universe. </p>
+
 - 📫 How to reach me **contact@aiedx.com**
 <br><br>
 

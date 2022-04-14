@@ -14,7 +14,7 @@
 <a align= "center" href="https://github.com/adssidhu86">
   <img alt= "stats card" height="200px" width="400" src="https://github-readme-stats.vercel.app/api?username=adssidhu86&theme=cobalt&show_icons=true&count_private=true" />
 <div>
-  <img align="left" height="300px" width="400px" src="https://storage.googleapis.com/aiedx-public/Logo_NoBackGround.png" /></a>
+  <img align="left" height="140px" width="120px" src="https://storage.googleapis.com/aiedx-public/logo_blackSmall.jpg" /></a>
   <h1> AIEDX 
      <a align="right" href="https://www.aiedx.com" target="blank"><img src="https://img.shields.io/badge/AIEDX-AI%20Enabled%20Discovery%20%26%20eXperience-orange?style=for-the-badge&logo=data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAMAAAAoLQ9TAAABoVBMVEUCAQADAQAHAwAIAwAJAwAKAwALAwAMAwAPBAAWBgAYCAAZBwAZCAAaCAAbCAAdCQAfCwAjDAAlDgAmDgAxFAEzFQE0FQE3FgE8GQFBHAFCHAFCHQFFHgFLIQFNIgFTJQJXJwJZKAJhLAJjLgNlLgNnMANtMgNtMwN1NwR3OAR5OAN5OQR6OgR7OQR7OgR8OgR8OwR9OwSAPASFPwWJQQWKQQWKQgaLQwaORQaPRQaQRQaSRgaSRgeXSAaaSgecSwidTAieTAeeTAigTgihTgejTwikUAimUAimUQmoUgqpUQirUwmtVAmvVQqwVQqyVwuzVwuzWAu0WAu1WAu1WQu2WAq2WQq2WQu3WQu3Wgu5Wwu5Wwy6Wwy6XAy8XAu9XQzBXgvBXwzDXwvDXwzDYA3EYA3EYQ3FYQ3FYg/GYQ3IYw3JYw3JYw7NZQ3PZg7QZg7QZw/RZw7RZw/TaRDVaRDWahDZbBDabBDbbRHcbRHcbhHdbhDdbhHebhHebxHgbxHgcBLhcBLicBLjcRHjcRLkchLmcxLqdRPweBPweBT///9zyHAPAAAA40lEQVR42mPgMA4IDw83ZWJgsQoPD3aSYFBpik/My3dkZWB3z8+OrHVm0K+UK2io8eIS4AypadEIjGIwrFCs1ZMUcciQFpUttfCPAQuoMUjVdpgxChZbAgUMgALqDCbVSTkCQAGYCt6sCN1WZSQBpWYd8TIPIbiAultnbEhllQxcQKs8Nyw0rt0YKBANNtSlTZWFRTA3pQSmIiFZmIGB0aSwEiKgUOdrp8nGwKbnUm8OFNCvlHQtKPLhYeD2K0qRD4piUKrPScvMtGVh4PfOTE9ttGdg1/bw9PQ0YmbgswbSNmIAPuxFpLfzeBkAAAAASUVORK5CYII=" alt="AIEDX" /></a>      
   </h1>
